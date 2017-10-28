@@ -212,7 +212,7 @@
                     </executions>
                 </plugin>
 
-                <!-- Coverage plugin (SonarQube requirement) -->
+                <!-- Coverage plugin (SonarQube requirement) test U -->
                 <plugin>
                     <groupId>org.sonarsource.scanner.maven</groupId>
                     <artifactId>sonar-maven-plugin</artifactId>
